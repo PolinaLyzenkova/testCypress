@@ -1,0 +1,5 @@
+{
+    "env": {
+        "local_env": "http://localhost:3000/"
+    }
+}
